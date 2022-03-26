@@ -1,0 +1,32 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"server": "nodemon server/server",
+		"server-start": "node server/server",
+		"start": "concurrently \"npm run server-start\" \"npm run start --prefix client\"",
+		"dev": "concurrently \"npm run server\" \"npm run start --prefix client\"",
+		"build": "cd client && npm run build",
+		"install-client": "cd client && npm install",
+		"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+	},
+	"author": "Alex Sobolev",
+	"license": "AS",
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"express-async-handler": "^1.1.4",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^5.13.14"
+	},
+	"devDependencies": {
+		"colors": "^1.4.0",
+		"concurrently": "^6.5.1",
+		"dotenv": "^16.0.0",
+		"express": "^4.17.3",
+		"morgan": "^1.10.0",
+		"nodemon": "^2.0.15"
+	}
+}

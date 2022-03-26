@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69ca0a25.chunk.css",
+    "main.js": "/static/js/main.d4ab3d62.chunk.js",
+    "main.js.map": "/static/js/main.d4ab3d62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.106f69f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.106f69f9.js.map",
+    "static/js/2.25e5f92a.chunk.js": "/static/js/2.25e5f92a.chunk.js",
+    "static/js/2.25e5f92a.chunk.js.map": "/static/js/2.25e5f92a.chunk.js.map",
+    "static/js/3.1b15c916.chunk.js": "/static/js/3.1b15c916.chunk.js",
+    "static/js/3.1b15c916.chunk.js.map": "/static/js/3.1b15c916.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.69ca0a25.chunk.css.map": "/static/css/main.69ca0a25.chunk.css.map",
+    "static/js/2.25e5f92a.chunk.js.LICENSE.txt": "/static/js/2.25e5f92a.chunk.js.LICENSE.txt",
+    "static/media/after.f3ad02da.jpg": "/static/media/after.f3ad02da.jpg",
+    "static/media/arrow.c3c36450.svg": "/static/media/arrow.c3c36450.svg",
+    "static/media/auth-bg.ace1f5ae.png": "/static/media/auth-bg.ace1f5ae.png",
+    "static/media/check-completed.72c32ebf.svg": "/static/media/check-completed.72c32ebf.svg",
+    "static/media/check.80b63008.svg": "/static/media/check.80b63008.svg",
+    "static/media/dumbbell.1b655e51.svg": "/static/media/dumbbell.1b655e51.svg",
+    "static/media/ex-bg-1.073f18f2.jpg": "/static/media/ex-bg-1.073f18f2.jpg",
+    "static/media/ex-bg-2.1fdc599e.jpg": "/static/media/ex-bg-2.1fdc599e.jpg",
+    "static/media/hamburger-close.7610df6f.svg": "/static/media/hamburger-close.7610df6f.svg",
+    "static/media/hamburger.6c95a276.svg": "/static/media/hamburger.6c95a276.svg",
+    "static/media/home-bg.97aadfd2.jpg": "/static/media/home-bg.97aadfd2.jpg",
+    "static/media/new-exercise-bg.eb9445fd.jpg": "/static/media/new-exercise-bg.eb9445fd.jpg",
+    "static/media/new-workout-bg.bf346120.jpg": "/static/media/new-workout-bg.bf346120.jpg",
+    "static/media/profile-bg.a26373b0.jpg": "/static/media/profile-bg.a26373b0.jpg",
+    "static/media/three-dots.fad4b8d2.svg": "/static/media/three-dots.fad4b8d2.svg",
+    "static/media/user.5072acd5.svg": "/static/media/user.5072acd5.svg",
+    "static/media/workout-bg.edf2873c.jpg": "/static/media/workout-bg.edf2873c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106f69f9.js",
+    "static/js/2.25e5f92a.chunk.js",
+    "static/css/main.69ca0a25.chunk.css",
+    "static/js/main.d4ab3d62.chunk.js"
+  ]
+}
